@@ -135,7 +135,7 @@
     - Predictive machine learning models can help identify chemical and structural drug features likely to cause toxic effects in humans.
     - Predictive machine learning could provide a way to "fail faster" and focus their experimental efforts on the drugs with the best bio-availability.
 
-## References
+## Addendum
 
 *   https://www.nvidia.com/en-us/case-studies/
 *   https://en.wikipedia.org/wiki/Nvidia
